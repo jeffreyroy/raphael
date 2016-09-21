@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: gray;
+}
+
+
+#holder {
+  width: 600;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
